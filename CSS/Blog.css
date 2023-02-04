@@ -1,0 +1,32 @@
+.video-cetip{
+    margin-bottom: 45px;
+}
+#BlogPrincipal h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-bottom: 35px;
+}
+#BlogPrincipal h4{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+    color:  rgb(8, 99, 170);
+}
+#BlogPrincipal .Contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-shadow: 0 0 0 1.2px rgb(26, 26, 26),
+                0 0.5px 53px;
+}
+#BlogPrincipal article{
+    margin: 8px;
+
+}
+#BlogPrincipal img{
+    width: 100%;
+    height: 95%;
+    max-height: 120%;
+    max-width: 482px;
+}

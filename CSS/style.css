@@ -1,0 +1,95 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url(menu.css);
+@import url(Banner.css);
+@import url(Blog.css); 
+@import url(info.css);
+@import url(animation.css);
+@import url(accesorios.css);
+@import url(infoleer-contac.css);
+@import url(cursos.css);
+@import url(Institucion.css);
+@import url(infoleer-contac.css);
+@import url(Inscripcion.css);
+@import url(academico.css);
+@import url(leer.css);
+@import url(slider.css);
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{   
+        font-family: 'Open Sans', sans-serif;
+        
+}
+header{
+    width: 100%;
+    height: 52px;
+    background: rgb(8, 99, 170);
+    color: aliceblue;
+
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    z-index: 100;
+}
+.Contenedor{
+    width: 100%;
+    margin: auto ;
+}
+
+h1{
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 43px;
+}
+header .Contenedor{
+    display: table;
+    
+}
+section{
+    width: 100%;
+    margin-bottom: 40px;
+}
+#Bienvenidos{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 23px;
+}
+#Bienvenidos p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifSS;
+    font-size: 19px;
+}
+footer.Contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+footer{
+    margin-top: 75px;
+    color:rgb(8, 99, 170);
+}
+.Copy{
+    font-size: 25px;
+}
+.Redes{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+   
+}
+
+.Redes a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+
+@media (min-width:1024px){
+    .Contenedor{
+        width: 1000px;
+    }
+}

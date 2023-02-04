@@ -1,0 +1,31 @@
+.cursos h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+#BlogAcademico h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-bottom: 35px;
+}
+h4{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    color:  rgba(2, 17, 133, 0.827);
+    
+}
+#BlogAcademico .Contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#BlogAcademico article{
+    margin: 8.5px;
+
+}
+#BlogAcademico img{
+    width: 100%;
+    max-width: 482px;
+}

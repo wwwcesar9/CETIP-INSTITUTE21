@@ -1,0 +1,145 @@
+.video-cetip{
+    margin-bottom: 45px;
+}
+#Blog-Principal h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-bottom: 35px;
+}
+#Blog-Principal h4{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+}
+#Blog-Principal .Contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#Blog-Principal article{
+    margin: 9px;
+
+}
+#Blog-Principal img{
+    width: 100%;
+    height: 90%;
+   
+    max-width: 470px;
+}
+.img-curso{
+    box-shadow: 0 0 0 0.9px rgb(26, 26, 26),
+                0 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.curso{
+    background-color: rgba(57, 15, 225, 0.782);;
+    margin: 1rem;
+    padding: 1rem;
+    margin-top: auto;
+    margin-left: 15px;
+}
+/*Es la clase donde tiene a todos los div adentro*/
+/* .cursos{
+    
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    
+} 
+/*Color del fondo de la caja del curso*/
+/*.curso-blanco{
+    background-color: rgb(255, 255, 255);
+    height: 16.5rem;
+    object-fit: contain;
+    padding: 0.5rem;
+}
+/*titulo de los productos y precios*/
+
+/*Titulo de los cursos*/
+/*.curso-info{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    font-weight: 200;
+    text-align: right;
+}
+/*Nombre de los cursos entre (los detalles)*/
+/*.curso-nombre{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 450;
+    text-align: left;
+}
+/*Imagenes */
+/*.img-curso{
+    max-width: 351.5px ;
+    margin-left: 40px; 
+    margin-top: -8px;
+}
+
+.img-curso2{
+    max-width: 395.5px ;
+    margin-left: 17.5px;  
+    margin-top: -7.5px;
+}
+
+.img-curso3{
+    max-width: 396.5px ;
+    margin-left: 16.5px;  
+    margin-top: -7.5px;
+}
+.img-curso4{
+    max-width: 399.5px ;
+    margin-left: 2px;  
+    margin-top: -8px;
+}
+.img-curso5{
+    max-width: 465px ;
+    margin-left: 0px;  
+    margin-top: 1.5px;
+}
+.img-curso6{
+    max-width: 380.5px ;
+    margin-left: 18px;  
+    margin-top: -8px;
+}
+
+.cursos{
+    max-width: 120rem;
+    margin: 1 auto;
+}
+@media (min-width:1024px){
+    .cursos{
+        width: 1000px;
+    }
+} 

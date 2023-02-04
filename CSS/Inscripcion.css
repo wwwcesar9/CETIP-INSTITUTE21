@@ -1,0 +1,18 @@
+.contenedor-requisitos{
+    margin-bottom: 45px;
+}
+.Requi{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: rgb(8, 99, 170) ;
+    text-decoration: underline;
+}
+.info-req{
+    margin-top: 15px;
+    margin-left: 140px;
+    margin-right: 35px;
+    font-size: 18.5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(17, 15, 15, 0.955);
+}

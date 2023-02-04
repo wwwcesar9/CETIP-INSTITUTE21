@@ -1,0 +1,21 @@
+.parrafo-cetip{
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Insti{
+    font-size: 19.5px;
+    font-family: fantasy;
+    color: rgba(17, 15, 15, 0.955);
+    
+}
+.Title{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(8, 99, 170);
+    
+}
+#Info-Cetip{
+    margin: 10px;
+}

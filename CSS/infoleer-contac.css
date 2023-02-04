@@ -1,0 +1,48 @@
+
+.contactanos{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    margin-bottom: 110px;
+}
+.title-leer{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(8, 99, 170);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 27.5px;
+    margin-bottom: 23px;
+    
+}
+.p-leer{
+    text-align: start;
+    margin-left: 35px;
+    margin-right: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-bottom: 18px;
+}
+.contenedor-leer{
+    margin-top: 120px;
+}
+.listas{
+    margin-left: 90px;
+    margin-right: 35px;
+}
+.icon-home1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18.5px;
+    text-decoration: none;
+    color: rgb(8, 99, 170);
+    margin-left: 180px;
+    
+}
+
+.redes{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    margin-bottom: 110px;
+}
+
+

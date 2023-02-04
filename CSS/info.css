@@ -1,0 +1,37 @@
+/* .Contenedor{
+  margin-bottom: 45px;
+} */
+#Info{
+    font-family: 'Times New Roman', Times, serif, Geneva, Tahoma, sans-serifs;
+    background:  rgb(8, 99, 170);
+    color: rgba(255, 255, 255, 0.951);
+    text-align: center;
+    font-size: 22px;
+    margin-top: 70px;
+    
+}
+
+#Info.Contenedor{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.Info-Cetip img{
+    width: 250px;
+    height: 200px;
+    border-radius: 31%;
+    border: 6.5px solid rgba(182, 204, 210, 0.718);
+    
+}
+@media (min-width:480px){
+    .Info-Cetip{
+      width: 40%;
+    }
+  }
+  @media (min-width:480px){
+    .Info-Cetip{
+      width: auto;
+    }
+  }

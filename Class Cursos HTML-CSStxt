@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <head>
+        <link rel="icon" href="IMG/PNG/cetipredon.png">
+    </head>
+    <link rel="stylesheet" href="CSS/fontello.css">
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <header>
+        <div class="Contenedor">
+            <h1 class="icon-graduation">CETIP</h1>
+            <input type="checkbox" id="menu-bar">
+            <label class="icon-menu3" for="menu-bar"></label>
+            <nav class="menu">
+                <a href="Academico.html" class="icon-volver" ></a>
+                
+                <a href="Inscripcion.html" class="icon-pencil" >Inscribite</a>
+            </nav
+        </div>
+    </header>
+        <main>
+            <section id="Banner">
+                <img src="IMG/fondi" >
+                <div class="Contenedor">
+                 <h2>Estudia en CETIP </h2>
+                 <p> ¿Por que estudiar en CETIP?</p>
+                 <a href="Leer.html">Leer mas</a>
+                </div>
+            </section>
+            <section id="Bienvenidos">
+                <h2>TU CENTRO TRANSFORMACIONAL INTEGRAL PERMANENTE DEL PARAGUAY <br> ---SINCE 2021--- </h2> <br>
+                <p>
+                    <h2>CURSOS HABILITADOS</h2>
+                </p>
+            </section>
+                    <section id="Blog-Principal">
+                        <div class="cursos">
+                            <!---INICIO PRODUCTO PRIMERA FILA DEL CURSO-->
+                            <div class="curso">
+                                <div class="curso-blanco">
+                                    <img src="IMG/CURSOS/CURSOS DISPONIBLES/electrica.jpg" alt="curso" class="img-curso">
+                                </div>
+                                <div class="curso-info">
+                                    <p class="curso-nombre">Electricidad Domiciliaria <br> Carga horaria: 200 hs</p>
+                                </div>
+                            </div>
+        
+                            <div class="curso">
+                                <div class="curso-blanco">
+                                    <img src="IMG/CURSOS/CURSOS DISPONIBLES/AA.png" alt="curso" class="img-curso2">
+                                </div>
+                                <div class="curso-info">
+                                    <p class="curso-nombre"> Instalacion y Mantenimiento de AA <br> Carga Horaria: 200hs </p>
+                                </div>
+                            </div>
+        
+                            <div class="curso">
+                                <div class="curso-blanco">
+                                    <img src="IMG/CURSOS/CURSOS DISPONIBLES/Refrig.jpg" alt="curso" class="img-curso3">
+                                </div>
+                                <div class="curso-info">
+                                    <p class="curso-nombre">Refrigeracion General <br> Carga Horaria: 250 hs </p>
+                                </div>
+                            </div>
+        
+                            <div class="curso">
+                                <div class="curso-blanco">
+                                    <img src="IMG/CURSOS/CURSOS DISPONIBLES/respos.jpg" alt="curso" class="img-curso4">
+                                </div>
+                                <div class="curso-info">
+                                    <p class="curso-nombre">Reposteria y Confiteria (DULCES) <br>Carga Horaria: 260 hs </p>
+                                </div>
+                            </div>
+                        
+                            <div class="curso">
+                                <div class="curso-blanco">
+                                    <img src="IMG/CURSOS/CURSOS DISPONIBLES/gastronomiajpg.jpg" alt="curso" class="img-curso5">
+                                </div>
+                                <div class="curso-info">
+                                    <p class="curso-nombre">Gastronomia y Artes Culinario <br>Carga Horaria: 230 hs
+                                    </p>
+                                </div>
+                            </div>     
+                            <div class="curso">
+                                <div class="curso-blanco">
+                                    <img src="IMG/CURSOS/CURSOS DISPONIBLES/globos1.jpg" alt="curso" class="img-curso6">
+                                </div>
+                                <div class="curso-info">
+                                    <p class="curso-nombre">Decoracion con Globos Para Eventos <br> Carga Horaria: 150 hs</p>
+                                </div>
+                            </div>     
+                            <div class="curso">
+                                <div class="curso-blanco">
+                                    <img src="" alt="curso" class="img-curso7">
+                                </div>
+                                <div class="curso-info">
+                                    <p class="curso-nombre"> </p>
+                                </div>
+                            </div>     
+                            <div class="curso">
+                                <div class="curso-blanco">
+                                    <img src="" alt="curso" class="img-curso8">
+                                </div>
+                                <div class="curso-info">
+                                    <p class="curso-nombre"> </p>
+                                </div>
+                            </div>     
+                            <div class="curso">
+                                <div class="curso-blanco">
+                                    <img src="" alt="curso" class="img-curso9">
+                                </div>
+                                <div class="curso-info">
+                                    <p class="curso-nombre"> </p>
+                                </div>
+                            </div>     
+        
+                        </div>
+                    </section>
+                    <section id="Info">
+                        <h3>CETIP <br> Cumpliendo Sueños</h3>
+                        <div class="Contenedor">
+                            <div class="Info-Cetip">
+                                <img src="IMG/PrinInfo.jpeg" alt="">
+                                <h4>Seguimos confiando en que la educación y capacitación es el camino🤝 
+                                    con este emprendimiento buscamos tu rápida inserción laboral en el área que te gusta. 
+                                    Todos tenemos un sueño por cumplir. <br>
+                                    En CETIP nos abocamos al tuyo</h4>
+                            </div>
+                        </div>
+                    </section>
+           
+            </main>
+            <footer>
+                <footer>
+                    <div class="Contenedor">
+                        <p class="Copy"> Your Guitar Shop &copy; 2022</p>
+                        <div class="Sociales">
+                            <a class="icon-twitter" href="#"></a>
+                            <a class="icon-facebook" href="#"></a>
+                            <a class="icon-instagram" href="#"></a>
+                            <a class="icon-twitch" href="#"></a>
+                            <a class="icon-telf" href="#"></a>  
+                        </div>
+                    </div>
+                </footer>
+    
+</body>
+</html>
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+.curso{
+    background-color: rgba(57, 15, 225, 0.782);;
+    margin: 1rem;
+    padding: 1rem;
+    margin-top: auto;
+    margin-left: 15px;
+}
+/*Es la clase donde tiene a todos los div adentro*/
+.cursos{
+    
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    
+} 
+/*Color del fondo de la caja del curso*/
+.curso-blanco{
+    background-color: rgb(255, 255, 255);
+    height: 16.5rem;
+    object-fit: contain;
+    padding: 0.5rem;
+}
+/*titulo de los productos y precios*/
+
+/*Titulo de los cursos*/
+.curso-info{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    font-weight: 200;
+    text-align: right;
+}
+/*Nombre de los cursos entre (los detalles)*/
+.curso-nombre{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 450;
+    text-align: left;
+}
+/*Imagenes */
+.img-curso{
+    max-width: 351.5px ;
+    margin-left: 40px; 
+    margin-top: -8px;
+}
+
+.img-curso2{
+    max-width: 395.5px ;
+    margin-left: 17.5px;  
+    margin-top: -7.5px;
+}
+
+.img-curso3{
+    max-width: 396.5px ;
+    margin-left: 16.5px;  
+    margin-top: -7.5px;
+}
+.img-curso4{
+    max-width: 399.5px ;
+    margin-left: 2px;  
+    margin-top: -8px;
+}
+.img-curso5{
+    max-width: 465px ;
+    margin-left: 0px;  
+    margin-top: 1.5px;
+}
+.img-curso6{
+    max-width: 380.5px ;
+    margin-left: 18px;  
+    margin-top: -8px;
+}
+
+.cursos{
+    max-width: 120rem;
+    margin: 1 auto;
+}
+@media (min-width:1024px){
+    .cursos{
+        width: 1000px;
+    }
+}
